@@ -1,0 +1,23 @@
+.black{
+    background-color: black;
+    margin: 1px solid white;
+}
+.gray{
+    background-color: #2C2C2C;
+    margin: 1px solid white;
+}
+.green{
+    background-color: #00AC9B;
+    margin: 1px solid white;
+}
+.light-gray{
+    background-color: #C4C4C4;
+    margin: 1px solid white;
+}
+.pupil{
+    background-color: rgb(182, 106, 106);
+    margin: 1px solid white;
+}
+[class*="col-"]{
+    margin:  1px solid white;
+}
